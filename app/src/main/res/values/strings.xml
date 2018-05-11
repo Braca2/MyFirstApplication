@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_products">Products</string>
+    <string name="button_markets">Markets</string>
+    <string name="button_stats">Stats</string>
+    <string name="label_name">Name</string>
+    <string name="txt_name">name</string>
+</resources>
